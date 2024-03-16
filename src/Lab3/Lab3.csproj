@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>Itmo.ObjectOrientedProgramming.Lab3</RootNamespace>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="SourceKit.Generators.Builder" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Crayon" />
+      <PackageReference Include="NSubstitute" />
+    </ItemGroup>
+
+</Project>
